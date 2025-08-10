@@ -1,6 +1,6 @@
 {
   "family_name": "Maple Mono",
-  "use_hinted": true,
+  "use_hinted": false,
   "pool_size": 4,
   "enable_ligature": true,
   "ttfautohint_param": {},
